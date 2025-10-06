@@ -1,0 +1,6 @@
+# Generated from pywal
+background = #0B0F08
+foreground = #a3c0e3
+cursor-color = #a3c0e3
+selection-background = #a3c0e3
+selection-foreground = #0B0F08
